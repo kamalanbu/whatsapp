@@ -12,7 +12,6 @@ public class Flip {
 		int rem=0;
 		digit=1;
 		System.out.print("fliped number:");
-
 		while(true) {
 			rem=num%10;
 			System.out.print(rem);
@@ -24,7 +23,6 @@ public class Flip {
 		System.out.println();
 		System.out.println("Digit:"+digit);
 		obj.close();
-
 	}
 
 }
