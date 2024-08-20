@@ -1,6 +1,6 @@
 package Try;
 
- public class Fibo {
+ public class Fibono {
 
 	public static void main(String[] args) {
 		int i,n1,n2,n3,count;
